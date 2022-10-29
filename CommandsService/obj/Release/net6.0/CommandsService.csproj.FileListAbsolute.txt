@@ -1,0 +1,7 @@
+C:\Users\amand\source\repos\Services\CommandsService\obj\Release\net6.0\CommandsService.csproj.AssemblyReference.cache
+C:\Users\amand\source\repos\Services\CommandsService\obj\Release\net6.0\CommandsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\source\repos\Services\CommandsService\obj\Release\net6.0\CommandsService.AssemblyInfoInputs.cache
+C:\Users\amand\source\repos\Services\CommandsService\obj\Release\net6.0\CommandsService.AssemblyInfo.cs
+C:\Users\amand\source\repos\Services\CommandsService\obj\Release\net6.0\CommandsService.csproj.CoreCompileInputs.cache
+C:\Users\amand\source\repos\Services\CommandsService\obj\Release\net6.0\CommandsService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amand\source\repos\Services\CommandsService\obj\Release\net6.0\CommandsService.MvcApplicationPartsAssemblyInfo.cache
